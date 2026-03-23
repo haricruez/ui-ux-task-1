@@ -74,8 +74,7 @@ The goal of this task is to demonstrate strong UI fundamentals, visual consisten
 ---
 
 ## 📷 Preview
-
-https://www.figma.com/design/51tsHx3saag3IZV7qU41Pq/Untitled?node-id=1-2&t=0DaWXET7AnrdbVxz-1
+(https://www.figma.com/proto/51tsHx3saag3IZV7qU41Pq/Untitled?node-id=1-2&t=g1Ar4NICx7AqeesF-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)
 
 ---
 
